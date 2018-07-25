@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-This is my first slide to do on my own in Markdown
+_first Italic font in Markdown in my first Slide_
 Use the left arrow to go back
